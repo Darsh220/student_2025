@@ -1,9 +1,10 @@
+#comment
 title: Nighthawk Pages 
 description: "Class of 2025"
-owner_name: John Mortensen
+owner_name: Darsh Darsh
 github_username: nighthawkcoders
-github_repo: "student_2025" 
-baseurl: "/student_2025"
+github_repo: "darsh_2025" 
+baseurl: "/darsh_2025"
 future: true
 remote_theme: jekyll/minima
 minima:
